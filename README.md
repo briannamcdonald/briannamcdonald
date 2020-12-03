@@ -1,8 +1,8 @@
 ### Hi, my name is Brianna McDonald✨
 
-- 📚 I'm a third year Computer Science Honours student at Memorial University of Newfoundland.  
-- ❤️ I’m currently learning about artifical intelligence and web development.
-- 🌈 Pronouns: She / Her
+- I'm a third year Computer Science Honours student at Memorial University of Newfoundland.  
+- I’m currently learning about artifical intelligence and web development.
+- Pronouns: She / Her
 
 #### 👩🏻‍💻 My most used languages & frameworks:
 
