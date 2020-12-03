@@ -4,14 +4,6 @@
 - ❤️ I’m currently learning about artifical intelligence and web development.
 - 🌈 Pronouns: She / Her
 
-#### How to reach me:
-
-- Email: brmcdonald@mun.ca
-- LinkedIn: [https://www.linkedin.com/in/briannamcdonald/](https://www.linkedin.com/in/briannamcdonald/)
-- Twitter: [https://twitter.com/Brianna_Codes](https://twitter.com/Brianna_Codes)
-- Portfolio Website: [briannamcdonald.github.io/portfolio-website](briannamcdonald.github.io/portfolio-website)
-
-
 #### 👩🏻‍💻 My most used languages & frameworks:
 
 ![Reactjs](https://img.shields.io/badge/-Reactjs-ff69b4) ![Redux](https://img.shields.io/badge/-Redux-blueviolet) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Python-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-red)
