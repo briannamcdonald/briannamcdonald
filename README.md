@@ -4,7 +4,7 @@
 - I’m currently learning about artifical intelligence and web development.
 - Pronouns: She / Her
 
-#### 👩🏻‍💻 My most used languages & frameworks:
+### 👩🏻‍💻 My most used languages & frameworks:
 
 ![Reactjs](https://img.shields.io/badge/-Reactjs-ff69b4) ![Redux](https://img.shields.io/badge/-Redux-blueviolet) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Python-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-red)
 
