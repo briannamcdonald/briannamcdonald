@@ -6,7 +6,7 @@
 
 ### 👩🏻‍💻 My most used languages & frameworks:
 
-![Reactjs](https://img.shields.io/badge/-Reactjs-ff69b4) ![Redux](https://img.shields.io/badge/-Redux-blueviolet) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Python-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-red)
+![Reactjs](https://img.shields.io/badge/-Python-red) ![Redux](https://img.shields.io/badge/-JavaScript-orange) ![JavaScript](https://img.shields.io/badge/-C++-yellow) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Unity-blue) ![HTML](https://img.shields.io/badge/-Reactjs-blueviolet) ![CSS](https://img.shields.io/badge/-Nodejs-ff69b4)
 
 
 
