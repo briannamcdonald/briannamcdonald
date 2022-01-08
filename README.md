@@ -2,7 +2,7 @@
 
 - I'm a fourth year Computer Science Honours student at Memorial University of Newfoundland.  
 - I’m currently learning about artifical intelligence and virtual/augmented reality development.
-- Pronouns: She / Her
+- Pronouns: She / Her.
 
 ### 👩🏻‍💻 My most used languages & frameworks:
 
