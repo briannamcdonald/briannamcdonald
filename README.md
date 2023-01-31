@@ -6,7 +6,7 @@
 
 ### 👩🏻‍💻 My most used languages & tools:
 
-![Reactjs](https://img.shields.io/badge/-Python-red) ![JavaScript](https://img.shields.io/badge/-JavaScript-orange) ![C++](https://img.shields.io/badge/-C++-yellow) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Unity-blue) ![HTML](https://img.shields.io/badge/-Reactjs-blueviolet) ![CSS](https://img.shields.io/badge/-Nodejs-ff69b4)
+![Python](https://img.shields.io/badge/-Python-red) ![JavaScript](https://img.shields.io/badge/-JavaScript-orange) ![C++](https://img.shields.io/badge/-C++-yellow) ![Unity](https://img.shields.io/badge/-Unity-brightgreen) ![React](https://img.shields.io/badge/-React-blue) ![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet) ![Figma](https://img.shields.io/badge/-Figma-ff69b4)
 
 
 
