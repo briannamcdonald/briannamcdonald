@@ -1,7 +1,7 @@
 ### Hi, my name is Brianna McDonald✨
 
-- I'm a fourth year Computer Science Honours student at Memorial University of Newfoundland.  
-- I’m currently learning about artificial intelligence, computer vision, data visualization, and UI / UX design.
+- I'm a recent graduate with an Honours degree in Computer Science from Memorial University of Newfoundland.  
+- I’m currently learning about machine learning, data visualization, and UI / UX design.
 - Pronouns: She / Her.
 
 ### 👩🏻‍💻 My most used languages & tools:
