@@ -1,6 +1,6 @@
 ### Hi, my name is Brianna McDonald✨
 
-- I'm a recent graduate with an Honours degree in Computer Science from Memorial University of Newfoundland.  
+- I'm a Software Developer with multiple years of industry experience and an Honours degree in Computer Science.
 - I’m currently learning about machine learning, data visualization, and UI / UX design.
 - Pronouns: She / Her.
 
