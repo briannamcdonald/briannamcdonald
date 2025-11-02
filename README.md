@@ -1,7 +1,7 @@
 ### Hi, my name is Brianna McDonald✨
 
 - I'm a Software Developer with multiple years of industry experience and an Honours degree in Computer Science.
-- I’m currently learning about machine learning, data visualization, and UI / UX design.
+- I’m currently learning about UI / UX design and LLM techniques.
 - Pronouns: She / Her.
 
 ### 👩🏻‍💻 My most used languages & tools:
