@@ -1,12 +1,17 @@
-### Hi, my name is Brianna McDonald✨
+### Hi, my name is Brianna McDonald 
 
-- I'm a Software Developer with 5 years of industry experience and an Honours degree in Computer Science.
-- I’m currently learning about UI / UX design and LLM techniques.
+- I'm a Software Developer with over 5 years of industry experience and an Honours degree in Computer Science.
+- I’m currently learning more about UI/UX design and LLM evaluation, with a focus on testing and improving AI workflows.
 - Pronouns: She / Her.
 
-### 👩🏻‍💻 My most used languages & tools:
+### My most used languages & tools:
 
-![Python](https://img.shields.io/badge/-Python-red) ![JavaScript](https://img.shields.io/badge/-JavaScript-orange) ![C++](https://img.shields.io/badge/-C++-yellow) ![Unity](https://img.shields.io/badge/-Unity-brightgreen) ![React](https://img.shields.io/badge/-React-blue) ![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet) ![Figma](https://img.shields.io/badge/-Figma-ff69b4)
+![React](https://img.shields.io/badge/-React-5F9B7A?style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-C97C96?style=flat)
+![Python](https://img.shields.io/badge/-Python-6F86A6?style=flat)
+![AWS](https://img.shields.io/badge/-AWS-5F9B7A?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-C97C96?style=flat)
+![Figma](https://img.shields.io/badge/-Figma-6F86A6?style=flat)
 
 
 
