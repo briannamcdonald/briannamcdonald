@@ -6,12 +6,12 @@
 
 ### My most used languages & tools:
 
-![React](https://img.shields.io/badge/-React-5F9B7A?style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-C97C96?style=flat)
-![Python](https://img.shields.io/badge/-Python-6F86A6?style=flat)
-![AWS](https://img.shields.io/badge/-AWS-5F9B7A?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-C97C96?style=flat)
-![Figma](https://img.shields.io/badge/-Figma-6F86A6?style=flat)
+![React](https://img.shields.io/badge/-React-C85C7E?style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-6F9A74?style=flat)
+![Python](https://img.shields.io/badge/-Python-7C8799?style=flat)
+![AWS](https://img.shields.io/badge/-AWS-BE4F76?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-7AA06D?style=flat)
+![Figma](https://img.shields.io/badge/-Figma-7C8799?style=flat)
 
 
 
